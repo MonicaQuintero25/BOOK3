@@ -7,4 +7,5 @@
 * [¿Cómo generar más ideas?](¿cómo-generar-más-ideas.md)
 * [Innovación basada en lo posible adyacente](innovación-basada-en-lo-posible-adyacente.md)
 * [Experiencia Total del Producto](experiencia-total-del-producto.md)
+* [Referencias Bibliograficas](referencias-bibliograficas.md)
 
